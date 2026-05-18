@@ -88,7 +88,7 @@ This Smart Traffic Management leverages real-time data from sensors/cameras and 
 1. Input: Live video feed from CCTV cameras or sensor data (simulated).                                                                                            
 2. Processing: Detect vehicles using OpenCV/YOLO and calculate lane-wise density.                                                                                  
 3. Decision Engine: Use ML model to predict optimal signal timing.                                                                                                
-4. Output: Send updated signal durations to traffic lights.                                                                                                    5.Monitoring: Admin dashboard displays live stats and allows manual override.                                                                                                                                                                                                                                                                                                                                                                                                                            
+4. Output: Send updated signal durations to traffic lights.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
 5.Monitoring: Admin dashboard displays live stats and allows manual override.
 
 <img width="1366" height="728" alt="18-05-2026_10 22 12_REC" src="https://github.com/user-attachments/assets/8925325d-4f21-42bc-a0ce-ec55330b9411" />
@@ -98,10 +98,8 @@ This Smart Traffic Management leverages real-time data from sensors/cameras and 
 # 📬 Contact
 
 For queries or collaboration, reach out to:
-
 👤 Krishna Zawar
 📧 zawarkrishna311@gmail.com
-
 
 Made with ❤️ for fantastic cities.
 
