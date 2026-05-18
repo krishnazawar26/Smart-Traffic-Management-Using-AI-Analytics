@@ -34,4 +34,14 @@ This Smart Traffic Management leverages real-time data from sensors/cameras and 
 •	Simulation   :	OpenCV (for object detection)
 •	Deployment   : 	Docker (optional), Gunicorn
 •	Hosting      :	Local Server / Cloud (for demo)
+•	Component    :             	Technology Used
+•	Backend          :	Python, Flask
+•	Frontend          :	HTML, CSS, JavaScript, Bootstrap
+•	Database          :	MySQL
+•	Machine Learning : 	Scikit-learn, TensorFlow
+•	Simulation       :	OpenCV (for object detection)
+•	Deployment     : 	Docker (optional), Gunicorn
+•	Hosting            :	Local Server / Cloud (for demo)
+
+
 
