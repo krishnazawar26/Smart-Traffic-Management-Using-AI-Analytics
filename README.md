@@ -99,7 +99,7 @@ This solution aims to make city transportation smarter, safer, and more efficien
 
 <img width="1366" height="728" alt="18-05-2026_10 22 12_REC" src="https://github.com/user-attachments/assets/8925325d-4f21-42bc-a0ce-ec55330b9411" />
 
-<img width="1366" height="728" alt="18-05-2026_10 23 21_rec" src="https://github.com/user-attachments/assets/714e0a18-b4d0-4005-8418-ecd3d3de4f39" />
+
 
 # 📬 Contact
 
