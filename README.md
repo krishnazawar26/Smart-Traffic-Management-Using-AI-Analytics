@@ -46,7 +46,7 @@ This Smart Traffic Management leverages real-time data from sensors/cameras and 
 
 # Steps
 
-    1. **Clone the repository** :-
+    1. Clone the repository :-
     github https://github.com/krishnazawar26/Smart-Traffic-Management-Using-AI-Analytics/
     cd Smart Traffic Management Using AI Analytics
 
@@ -83,3 +83,10 @@ This Smart Traffic Management leverages real-time data from sensors/cameras and 
     ├── requirements.txt          # Dependencies
     └── README.md
 
+
+# 🎯 How It Works
+Input: Live video feed from CCTV cameras or sensor data (simulated).
+Processing: Detect vehicles using OpenCV/YOLO and calculate lane-wise density.
+Decision Engine: Use ML model to predict optimal signal timing.
+Output: Send updated signal durations to traffic lights.
+Monitoring: Admin dashboard displays live stats and allows manual override.
