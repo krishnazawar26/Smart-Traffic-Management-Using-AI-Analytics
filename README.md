@@ -1,6 +1,9 @@
 # Smart-Traffic-Management-Using-AI-Analytics
 This Smart Traffic Management leverages real-time data from sensors/cameras and historical traffic patterns to dynamically adjust traffic signal timings, predict congestion, and optimize vehicle flow across intersections based on AI Analytics
 
+<img width="400" height="201" alt="demo" src="https://github.com/user-attachments/assets/c34eb1ea-aef1-4e6a-92fd-1304c081f26d" />
+
+
 
 # 🔍 Overview
 
