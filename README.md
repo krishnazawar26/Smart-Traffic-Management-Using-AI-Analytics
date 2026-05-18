@@ -46,7 +46,7 @@ This Smart Traffic Management leverages real-time data from sensors/cameras and 
 
 # Steps
 
-    1. Clone the repository :-
+    1. **Clone the repository** :-
     github https://github.com/krishnazawar26/Smart-Traffic-Management-Using-AI-Analytics/
     cd Smart Traffic Management Using AI Analytics
 
