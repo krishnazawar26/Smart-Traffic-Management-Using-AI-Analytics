@@ -27,7 +27,7 @@ This Smart Traffic Management leverages real-time data from sensors/cameras and 
 
 # Tech Stack
 •	Component    :  Technology Used                                                                                                                             
-•	Backend      :	Python, Flask                                                                                                                                  
+•	Backend      :	Python                                                                                                                                 
 •	Frontend     :	HTML, CSS, JavaScript, Bootstrap                                                                                                               
 •	Database     :	MySQL                                                                                                                                          
 •	Machine Learning : 	Scikit-learn, TensorFlow                                                                                                                   
@@ -43,21 +43,21 @@ This Smart Traffic Management leverages real-time data from sensors/cameras and 
 
 # Steps
 
-    1. Clone the repository
+    1. Clone the repository :-
 
-    git clone https://github.com/subham711-dot/Smart-Traffic-Management-System-SIH.git
-    cd Smart-Traffic-Management-System-SIH
+    github https://github.com/krishnazawar26/Smart-Traffic-Management-Using-AI-Analytics/
+    cd Smart Traffic Management Using AI Analytics
 
-    2. Create virtual environment (recommended)
+    2. Create virtual environment (recommended) :-
 
     python -m venv venv
     source venv/bin/activate   
 
-    3. Install dependencies
+    3. Install dependencies :-
 
     pip install -r requirements.txt
 
-    4. Run the application
+    4. Run the application :-
 
     python app.py
 
