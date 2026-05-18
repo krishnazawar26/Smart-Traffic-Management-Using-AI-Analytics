@@ -33,7 +33,33 @@ This Smart Traffic Management leverages real-time data from sensors/cameras and 
 •	Machine Learning : 	Scikit-learn, TensorFlow                                                                                                                   
 •	Simulation   :	OpenCV (for object detection)                                                                                                                  
 •	Deployment   : 	Docker (optional), Gunicorn                                                                                                                    
-•	Hosting      :	Local Server / Cloud (for demo)                    
+•	Hosting      :	Local Server / Cloud (for demo)             
+
+# Prerequisites
+
+    Python 3.8 or higher
+    pip package manager
+    Git
+
+# Steps
+
+    1. Clone the repository
+
+    git clone https://github.com/subham711-dot/Smart-Traffic-Management-System-SIH.git
+    cd Smart-Traffic-Management-System-SIH
+
+    2. Create virtual environment (recommended)
+
+    python -m venv venv
+    source venv/bin/activate   
+
+    3. Install dependencies
+
+    pip install -r requirements.txt
+
+    4. Run the application
+
+    python app.py
 
 
 
