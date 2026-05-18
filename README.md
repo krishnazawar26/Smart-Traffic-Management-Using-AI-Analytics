@@ -2,6 +2,12 @@
 This Smart Traffic Management leverages real-time data from sensors/cameras and historical traffic patterns to dynamically adjust traffic signal timings, predict congestion, and optimize vehicle flow across intersections based on AI Analytics
 
 
+# 🔍 Overview
+
+Urban traffic congestion leads to increased travel time, pollution, and fuel consumption. This Smart Traffic Management System (STMS) leverages real-time data from sensors/cameras and historical traffic patterns to dynamically adjust traffic signal timings, predict congestion, and optimize vehicle flow across intersections.
+
+This solution aims to make city transportation smarter, safer, and more efficient using modern technologies such as machine learning, IoT, and real-time web interfaces.
+
 # Features : 
 ✅ Dynamic Signal Control
     Adjusts traffic light durations based on real-time vehicle density at each lane.
@@ -97,9 +103,9 @@ This Smart Traffic Management leverages real-time data from sensors/cameras and 
 
 # 📬 Contact
 
-For queries or collaboration, reach out to:
-👤 Krishna Zawar
-📧 zawarkrishna311@gmail.com
+For queries or collaboration, reach out to:                                                                                                                        
+👤 Krishna Zawar                                                                                                                                                   
+📧 zawarkrishna311@gmail.com                                                                                                                                       
 
 Made with ❤️ for fantastic cities.
 
