@@ -91,5 +91,6 @@ This Smart Traffic Management leverages real-time data from sensors/cameras and 
 4. Output: Send updated signal durations to traffic lights.                                                                                                        5.Monitoring: Admin dashboard displays live stats and allows manual override.                                                                                                                                                                                                                                                        
 
 
-<img width="1366" height="728" alt="20 09 2025_10 22 12_REC" src="https://github.com/user-attachments/assets/5789e909-36da-4608-b8e2-8fb7bd66ba93" />
+
 [using preuploaded video](Prototype/20.09.2025_10.22.12_REC.png) 
+![using live camera video](Prototype/20.09.2025_10.23.21_REC.png) 
