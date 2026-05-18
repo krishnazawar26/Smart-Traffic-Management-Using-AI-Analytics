@@ -85,8 +85,8 @@ This Smart Traffic Management leverages real-time data from sensors/cameras and 
 
 
 # 🎯 How It Works
-Input: Live video feed from CCTV cameras or sensor data (simulated).
-Processing: Detect vehicles using OpenCV/YOLO and calculate lane-wise density.
-Decision Engine: Use ML model to predict optimal signal timing.
-Output: Send updated signal durations to traffic lights.
-Monitoring: Admin dashboard displays live stats and allows manual override.
+1. Input: Live video feed from CCTV cameras or sensor data (simulated).                                                                                            
+2. Processing: Detect vehicles using OpenCV/YOLO and calculate lane-wise density.                                                                                  
+3. Decision Engine: Use ML model to predict optimal signal timing.                                                                                                
+4. Output: Send updated signal durations to traffic lights.                                                                                                        
+5.Monitoring: Admin dashboard displays live stats and allows manual override.                    
