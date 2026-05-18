@@ -25,42 +25,61 @@ This Smart Traffic Management leverages real-time data from sensors/cameras and 
     The system is uniquely designed to run efficiently on both Raspberry Pi and smartphones, enabling low-cost, scalable deployment.
 
 
-# Tech Stack
+# 🛠️ Tech Stack
 •	Component    :  Technology Used                                                                                                                             
-•	Backend      :	Python                                                                                                                                 
+•	Backend      :	Python / Flask                                                                                                                               
 •	Frontend     :	HTML, CSS, JavaScript, Bootstrap                                                                                                               
 •	Database     :	MySQL                                                                                                                                          
 •	Machine Learning : 	Scikit-learn, TensorFlow                                                                                                                   
 •	Simulation   :	OpenCV (for object detection)                                                                                                                  
 •	Deployment   : 	Docker (optional), Gunicorn                                                                                                                    
-•	Hosting      :	Local Server / Cloud (for demo)             
+•	Hosting      :	Local Server / Cloud (for demo)    
 
+
+# 📦 Installation & Setup
 # Prerequisites
 
-    Python 3.8 or higher
-    pip package manager
-    Git
+•	Python 3.8 or higher
+•	pip package manager
+•	Git
+
 
 # Steps
 
     1. Clone the repository :-
-
     github https://github.com/krishnazawar26/Smart-Traffic-Management-Using-AI-Analytics/
     cd Smart Traffic Management Using AI Analytics
 
     2. Create virtual environment (recommended) :-
-
     python -m venv venv
     source venv/bin/activate   
 
     3. Install dependencies :-
-
     pip install -r requirements.txt
 
     4. Run the application :-
-
     python app.py
 
-
-
+# 🖼️ Project Structure
+    Smart Traffic Management
+    │
+    ├── app.py                    # Main Python application
+    ├── config.py                 # Configuration settings
+    ├── models/                   # ML models & training scripts
+    │   ├── train_model.py
+    │   └── predict.py
+    ├── static/                   # CSS, JS, images
+    │   ├── css/
+    │   ├── js/
+    │   └── images/    
+    ├── templates/                # HTML templates
+    │   ├── index.html
+    │   ├── dashboard.html
+    │   └── ...
+    ├── utils/                    # Helper functions
+    │   ├── camera_feed.py
+    │   └── signal_controller.py
+    ├── data/                     # Sample datasets/logs
+    ├── requirements.txt          # Dependencies
+    └── README.md
 
