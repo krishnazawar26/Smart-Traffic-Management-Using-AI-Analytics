@@ -92,7 +92,7 @@ This Smart Traffic Management leverages real-time data from sensors/cameras and 
 
 
 <img width="1366" height="728" alt="20 09 2025_10 22 12_REC" src="https://github.com/user-attachments/assets/293ae016-2720-440f-b61d-1e5f27842fa7" />
-[using preuploaded video](Prototype/20.09.2025_10.22.12_REC.png)
+
 
 <img width="900" height="475" alt="18-05-2026_10 23 21_rec" src="https://github.com/user-attachments/assets/714e0a18-b4d0-4005-8418-ecd3d3de4f39" />
-![using live camera video](Prototype/20.09.2025_10.23.21_REC.png) 
+
